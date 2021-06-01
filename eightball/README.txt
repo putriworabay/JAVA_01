@@ -1,6 +1,7 @@
 Compile EightBall.java and run it.  It takes an integer as an argument:
 
 Java eighball Senin, 30 Mei 2021 by putri_wor
+Java eightball Selasa, 01 Juni 2021
 java EightBall 391
 java EightBall 2000
 
